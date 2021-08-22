@@ -3,5 +3,5 @@
 # Contents
 
 ### Pytorch
- - [nn.Linear()](https://github.com/s-ryuri/TIL/blob/main/Pytorch/nn.Linear.md)
+ - [nn.Linear()](https://github.com/s-ryuri/TIL/blob/main/Pytorch/nn.Linear.md) 2021-8-22
  - optim
