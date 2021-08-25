@@ -11,4 +11,7 @@
 
 ### ToyProject
  - [NIKE 6차 구현] (https://github.com/s-ryuri/NIKE/blob/master/main.py) 2021-08-24
- - [Keyzard] (https://github.com/s-ryuri/keyzard/blob/master/main.py) 2021-08-24 
+ - [Keyzard] (https://github.com/s-ryuri/keyzard/blob/master/main.py) 2021-08-24
+
+### Machine Learning
+ - [정보 이득 지수, 지니계수]
