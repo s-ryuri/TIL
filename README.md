@@ -11,7 +11,7 @@
  - [with torch.no_grad](https://github.com/s-ryuri/TIL/blob/main/Pytorch/with%20torch.no_grad.md) 2021-08-26
 
 ### Pandas
- - [rename] () 2021-08-28
+ - [rename](https://github.com/s-ryuri/TIL/blob/main/Pandas/rename.md) 2021-08-28
 
 ### Machine Learning
  - [정보 이득 지수, 지니계수](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%A0%95%EB%B3%B4%EC%9D%B4%EB%93%9D%2C%EC%A7%80%EB%8B%88%EA%B3%84%EC%88%98.md) 2021-08-25
