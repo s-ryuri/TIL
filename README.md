@@ -17,6 +17,7 @@
  - [정보 이득 지수, 지니계수](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%A0%95%EB%B3%B4%EC%9D%B4%EB%93%9D%2C%EC%A7%80%EB%8B%88%EA%B3%84%EC%88%98.md) 2021-08-25
  - [hard voting, Softvoting](https://github.com/s-ryuri/TIL/blob/main/ML/%ED%95%98%EB%93%9C%EB%B3%B4%ED%8C%85%2C%EC%86%8C%ED%94%84%ED%8A%B8%EB%B3%B4%ED%8C%85.md) 2021-08-26
  - [Gradient Boost Machine](https://github.com/s-ryuri/TIL/blob/main/ML/Gradient%20Boost%20Machine.md) 2021-08-27
+ - [균형 트리 분할, 리프 중심 트리 분할](https://github.com/s-ryuri/TIL/blob/main/ML/%EA%B7%A0%ED%98%95%20%ED%8A%B8%EB%A6%AC%20%EB%B6%84%ED%95%A0%2C%20%EB%A6%AC%ED%94%84%20%EC%A4%91%EC%8B%AC%20%ED%8A%B8%EB%A6%AC%20%EB%B6%84%ED%95%A0.md) 2021-08-29
 
 ### ToyProject
  - [NIKE 6차 구현](https://github.com/s-ryuri/NIKE/blob/master/main.py) 2021-08-24
