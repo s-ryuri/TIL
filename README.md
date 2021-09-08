@@ -21,7 +21,8 @@
  - [Factorplot,polintplot](https://github.com/s-ryuri/TIL/blob/main/ML/factorplot%2C%20pointplot.md) 2021-08-30
  - [matplotlib한글깨짐](https://github.com/s-ryuri/TIL/blob/main/ML/matplotlib%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90.md) 2021-09-01
  - [Santander Customer Satisfaction](https://github.com/s-ryuri/TIL/blob/main/ML/satisfaction.ipynb) 2021-09-05
- - [신용카드사기검출필사](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%EC%82%AC%EA%B8%B0%EA%B2%80%EC%B6%9C.ipynb) 2021-09-6
+ - [신용카드사기검출필사](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%EC%82%AC%EA%B8%B0%EA%B2%80%EC%B6%9C.ipynb) 2021-09-06
+ - [스태킹](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%8A%A4%ED%83%9C%ED%82%B9.md) 2021-09-08
 
 ### VRAN
  - [FluidRAN](https://github.com/s-ryuri/TIL/blob/main/VRAN/FluidRAN.md) 2021-09-02  
