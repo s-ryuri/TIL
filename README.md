@@ -23,7 +23,8 @@
  - [Santander Customer Satisfaction](https://github.com/s-ryuri/TIL/blob/main/ML/satisfaction.ipynb) 2021-09-05
  - [신용카드사기검출필사](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%EC%82%AC%EA%B8%B0%EA%B2%80%EC%B6%9C.ipynb) 2021-09-06
  - [스태킹](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%8A%A4%ED%83%9C%ED%82%B9.md) 2021-09-08
- - [회귀코드)(https://github.com/s-ryuri/TIL/blob/main/ML/%ED%9A%8C%EA%B7%80.ipynb) 2021-09-09
+ - [회귀코드](https://github.com/s-ryuri/TIL/blob/main/ML/%ED%9A%8C%EA%B7%80.ipynb) 2021-09-09
+ - [엘라스틱넷회귀](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EB%84%B7%ED%9A%8C%EA%B7%80.md) 2021-09-10
 
 ### VRAN
  - [FluidRAN](https://github.com/s-ryuri/TIL/blob/main/VRAN/FluidRAN.md) 2021-09-02  
