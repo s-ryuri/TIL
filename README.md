@@ -27,6 +27,9 @@
  - [엘라스틱넷회귀](https://github.com/s-ryuri/TIL/blob/main/ML/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EB%84%B7%ED%9A%8C%EA%B7%80.md) 2021-09-10
 ### Android
  - [orientaion](https://github.com/s-ryuri/TIL/blob/main/Android/orientation.md) 2021-09-11
+
+### GDSC
+ - [markdown](https://github.com/s-ryuri/TIL/blob/main/GDSC/markdown.md) 2021-09-12
 ### VRAN
  - [FluidRAN](https://github.com/s-ryuri/TIL/blob/main/VRAN/FluidRAN.md) 2021-09-02  
 ### Project
